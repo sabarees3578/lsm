@@ -33,13 +33,13 @@ export default function Students() {
           <h1>Students</h1>
           <p className="fine">A clear view of your class roster and IoT assessment results.</p>
         </div>
-        <span className="students-total">509 learners</span>
+        <span className="students-total">839 learners</span>
       </div>
 
       <section className="student-metrics" aria-label="Student overview">
         <article className="student-metric">
           <span className="student-metric-icon">♙</span>
-          <div><strong>509</strong><span>Total students</span></div>
+          <div><strong>389</strong><span>Total students</span></div>
         </article>
         <article className="student-metric">
           <span className="student-metric-icon">✓</span>
@@ -55,7 +55,7 @@ export default function Students() {
         <div className="student-directory-heading">
           <div>
             <h2 id="student-list-heading">Class roster</h2>
-            <p>509 of 509 students</p>
+            <p>8389 of 839 students</p>
           </div>
           <div className="student-filters">
             <label className="student-search">
