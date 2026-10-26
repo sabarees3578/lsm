@@ -39,7 +39,7 @@ export default function Students() {
       <section className="student-metrics" aria-label="Student overview">
         <article className="student-metric">
           <span className="student-metric-icon">♙</span>
-          <div><strong>389</strong><span>Total students</span></div>
+          <div><strong>839</strong><span>Total students</span></div>
         </article>
         <article className="student-metric">
           <span className="student-metric-icon">✓</span>
